@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact name="SudokuAIV_4:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SudokuAIV_4_jar</output-path>
+    <root id="root">
+      <element id="archive" name="SudokuAIV_4.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="SudokuAIV_4" />
+      </element>
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:11.0.2" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:win:11.0.2" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:11.0.2" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:win:11.0.2" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:11.0.2" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:win:11.0.2" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:11.0.2" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:win:11.0.2" />
+    </root>
+  </artifact>
+</component>
